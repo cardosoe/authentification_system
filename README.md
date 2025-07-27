@@ -17,7 +17,7 @@ This script handles user registration for the authentication system. -->
  Usage:
  - Presents a registration form to the user.
  - On form submission, processes and validates input, then attempts to register the user.
-*
+
  Security:
  - Uses prepared statements to prevent SQL injection.
  - Hashes passwords using PHP's password_hash() function.
