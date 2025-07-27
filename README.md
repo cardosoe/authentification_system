@@ -1,4 +1,4 @@
-# User Registration Script
+# User Registration Script (vanilla PHP)
 
 This script handles user registration for the authentication system. -->
  Features:
